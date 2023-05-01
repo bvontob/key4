@@ -1,0 +1,17 @@
+{
+    "header" : 
+    {
+        "platform" : "nutekt-digital",
+        "module" : "osc",
+        "api" : "1.1-0",
+        "dev_id" : 0,
+        "prg_id" : 0,
+        "version" : "0.9-0",
+        "name" : "key4",
+        "num_param" : 2,
+        "params" : [
+            ["mode",    0,   5, "" ],
+            ["drve",    0, 100, "%"]
+        ]
+    }
+}
